@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ElementosVisualesTarea</string>
+    <string name="genero">Género</string>
+    <string name="registro">Registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="otro">Otro</string>
+    <string name="prefiero_no_decir">Prefiero no decir</string>
+    <string name="edad">Edad</string>
+    <string name="accepta_politica">Acepto las políticas</string>
+    <string name="registrarse">Registrarse</string>
+
+    <string-array name="series_array">
+        <item>Breaking Bad</item>
+        <item>Stranger Things</item>
+        <item>The Mandalorian</item>
+        <item>The Office</item>
+        <item>Sherlock</item>
+        <item>The Mentalist</item>
+        <item>What if</item>
+        <item>Moon Knight</item>
+        <item>Attack On titan</item>
+        <item>Malcom In The Middle</item>
+        <item>Lego Monkie Kid</item>
+        <item>Banana Fish</item>
+        <item>Our Flag Means Death</item>
+        <item>Good Omens</item>
+        <item>Hannibal</item>
+        <!-- Agregar aquí más series si es necesario-->
+    </string-array>
+
+    <string name="channel_name">Nombre del canal</string>
+    <string name="channel_description">Descripción del canal</string>
+    <string name="activity_main_error">Campos Requeridos</string>
+
+
+</resources>
